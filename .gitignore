@@ -1,0 +1,14 @@
+.DS_Store
+/.vscode
+
+# Node
+node_modules
+/package
+
+# Svelte and Vercel build dirs
+/build
+/.svelte-kit
+/.vercel_build_output
+
+# Env
+.env
