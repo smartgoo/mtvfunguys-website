@@ -48,7 +48,8 @@
     </Navbar>
 </div>
 
-<slot></slot>
+<slot>
+</slot>
 
 <style>
     i {
