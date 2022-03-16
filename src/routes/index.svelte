@@ -70,11 +70,6 @@
             </div>
 
             <div class="mt-5 mb-5">
-                <h5>Who owns the rights to the images?</h5>
-                <p>The owner of the NFT owns the rights to the respective NFT.</p>
-            </div>
-
-            <div class="mt-5 mb-5">
                 <h5>Where can I buy FunGuys?</h5>
                 <p>FunGuys secondary market is Nefti.art.</p>
             </div>
