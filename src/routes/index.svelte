@@ -7,7 +7,7 @@
         <div class="col-7 d-flex">
             <div class="justify-content-center align-self-center">
                 <h1>MTV FunGuys</h1>
-                <p>MTV FunGuys is an upcoming NFT project in the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
+                <p>MTV FunGuys is an upcoming NFT project on the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
                 <button type="button" class="btn btn-primary">Buy on Nefti.art</button>
             </div>
         </div>
