@@ -7,7 +7,7 @@
         <div class="col-7 d-flex">
             <div class="justify-content-center align-self-center">
                 <h1>MTV FunGuys</h1>
-                <p>MTV FunGuys is an upcoming NFT project in the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
+                <p>MTV FunGuys is an upcoming NFT project on the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
                 <button type="button" class="btn btn-primary">Buy on Nefti.art</button>
             </div>
         </div>
@@ -290,11 +290,6 @@
                     <li>1112-2222 will be 1,000 MTV</li>
                     <li>2223-3333 will be 1,250 MTV</li>
                 </ul>
-            </div>
-
-            <div class="mt-5 mb-5">
-                <h5>Who owns the rights to the images?</h5>
-                <p>The owner of the NFT owns the rights to the respective NFT.</p>
             </div>
 
             <div class="mt-5 mb-5">
