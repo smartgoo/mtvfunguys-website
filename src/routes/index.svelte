@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row mb-5">
         <div class="col-12 col-md-5">
-            <img src="/img/hero.jpeg" />
+            <img class="rounded-3 shadow" src="/img/home-hero.gif" />
         </div>
 
         <div class="col-12 col-md-7 d-flex">
