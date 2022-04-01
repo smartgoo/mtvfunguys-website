@@ -3,6 +3,6 @@ body {
     font-family: 'Luckiest Guy', cursive !important;
 }
 
-p {
+p, td {
     font-family: 'Raleway', sans-serif !important;
 }
