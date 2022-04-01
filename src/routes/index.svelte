@@ -368,7 +368,7 @@
     }
 
     .bg-dark-row {
-        background-color: #86d7f7;
+        background-color: #fdc689;
     }
 
     .fix-right {
