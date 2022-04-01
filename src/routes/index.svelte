@@ -375,7 +375,7 @@
         position:fixed;
         bottom: 0px;
         right: -30px;
-        height: 200px;
+        height: 10rem;
         width: auto;
         transform: rotate(-90deg);
     }
@@ -384,7 +384,7 @@
         position: fixed;
         bottom: -30px;
         left: 0px;
-        height: 200px;
+        height: 10rem;
         width: auto;
     }
 
