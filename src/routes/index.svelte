@@ -3,11 +3,11 @@
 
 <div class="container">
     <div class="row mb-5">
-        <div class="col-5">
+        <div class="col-12 col-md-5">
             <img src="/img/hero.jpeg" />
         </div>
 
-        <div class="col-7 d-flex">
+        <div class="col-12 col-md-7 d-flex">
             <div class="justify-content-center align-self-center">
                 <h1>MTV FunGuys</h1>
                 <p>MTV FunGuys is an upcoming NFT project on the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
