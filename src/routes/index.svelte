@@ -24,7 +24,7 @@
                 <h1 id="attributes">Attributes</h1>
     
                 <h3 class="mt-5">Caps</h3>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Category</th>
@@ -87,7 +87,7 @@
                 </table>
     
                 <h3 class="mt-5">Spots</h3>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Category</th>
@@ -150,7 +150,7 @@
                 </table>
     
                 <h3 class="mt-5">Stems</h3>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Category</th>
@@ -213,7 +213,7 @@
                 </table>
     
                 <h3 class="mt-5">Faces</h3>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Category</th>
@@ -286,7 +286,7 @@
                 </table>
     
                 <h3 class="mt-5">Backgrounds</h3>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Category</th>
