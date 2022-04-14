@@ -1,3 +1,22 @@
+<script>
+    import { goto } from "$app/navigation";
+    let timer = ''
+
+    setInterval(function() {
+        let timestamp = new Date().setUTCHours(23, 59, 59, 59)
+        let countdownTo = new Date(timestamp)
+        let currentTimestamp = new Date();
+
+        const distance = countdownTo - currentTimestamp;
+        let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        let seconds = Math.floor((distance % (1000 * 60)) / 1000); 
+
+        timer = hours + "h " + minutes + "m " + seconds + "s ";
+    }, 1000)
+
+</script>
+
 <img class="fix-right" src="/img/web1.png" />
 <img class="fix-left" src="/img/web2.png" />
 
@@ -10,8 +29,9 @@
         <div class="col-12 col-md-7 d-flex">
             <div class="justify-content-center align-self-center">
                 <h1>MTV FunGuys</h1>
-                <p>MTV FunGuys is an upcoming NFT project on the Multivac network. Get news and updates here so you can be a part of the future of crypto.</p>
-                <button type="button" class="btn btn-primary" disabled>Minting Soon</button>
+                <p>MTV FunGuys is an upcoming NFT project on the MultiVAC network. Get news and updates here so you can be a part of the future of crypto.</p>
+                <h3>Minting In {timer} on Nefti</h3>
+                <button type="button" class="btn btn-primary" on:click={() => {goto('https://www.nefti.art/collections/funguys')}}>View on Nefti</button>
             </div>
         </div>
     </div>

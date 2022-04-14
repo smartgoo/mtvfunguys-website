@@ -1,5 +1,6 @@
 <script>
     import {
+        Button,
         Collapse,
         Icon,
         Navbar,
